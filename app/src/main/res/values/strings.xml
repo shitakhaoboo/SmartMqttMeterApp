@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">E4D</string>
+    <string name="title">STIMAKONNEKT Dashboard</string>
+    <string name="dashboard_status">Dashboard status: </string>
+    <string name="actual_status">Disconnected</string>
+    <string name="balance">Balance :</string>
+    <string name="actual_balance">Nothing yet</string>
+    <string name="ksh_id">Amount Paid : </string>
+    <string name="units_id">Units : </string>
+    <string name="token_id">Token : </string>
+    <string name="day_id">Day : </string>
+    <string name="time_id">Time : </string>
+    <string name="transaction">Transaction History</string>
+    <string name="consumption">Consumption Info</string>
+    <string name="toggle">Toggle</string>
+    <string name="restatus">Relay Status</string>
+    <string name="rstatus">Null</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
